@@ -5,6 +5,7 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
 }
 
 a,
@@ -651,7 +652,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #FFFFFF!important;
 }
 
 .container {
@@ -727,7 +728,7 @@ h1 {
 }
 
 h4 {
-    color: #333333!important;
+    color: #0f0e0e!important;
 }
 
 .icons {
@@ -753,7 +754,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(35, 31, 32, 0.7);
+    background-color: rgba(3, 3, 3, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -781,7 +782,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -823,9 +824,6 @@ h4 {
     background-image: url("img/lines-h2-bg.png");
 }
 
-.bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta%20made%20sign.jpg");
-}
 
 .bg-atlanta-20made-20sign-20orange {
     background-image: url("img/atlanta%20made%20sign%20orange.jpg");
